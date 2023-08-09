@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'vazir';
+    src: url(../fonts/Vazir-Regular-FD.eot) format('eot');
+    src: url(../fonts/Vazir-Regular-FD.ttf) format('truetype');
+    src: url(../fonts\Vazir-Regular-FD.woff/va) format('woff');
+}
+body{
+    direction: rtl;
+    font-family: 'vazir';
+}
+.navbar_brand{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card-item{
+    box-shadow: 0 0 10px rgba(117,117,117, .2);
+}
+.nazarat{
+    background-color: #f8f8f8;
+}
+.form-control{
+    direction: rtl !important;
+}
+.my-4 {
+    margin-top: 1.5rem!important;
+    margin-bottom: 0!important;
+}
